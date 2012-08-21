@@ -1,0 +1,1 @@
+-bootclasspath /opt/j2sdk1.4.2_05/jre/lib/rt.jar:/opt/j2sdk1.4.2_05/jre/lib/ext/jcl.jar:/opt/j2sdk1.4.2_05/jre/lib/ext/comm.jar
